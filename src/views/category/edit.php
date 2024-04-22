@@ -7,7 +7,7 @@
                 <a href="/" class="block py-3 px-2 hover:bg-gray-100 cursor-pointer">
                     Home
                 </a>
-                <a href="" class="block py-3 px-2 hover:bg-gray-100 cursor-pointer">
+                <a href="/profile" class="block py-3 px-2 hover:bg-gray-100 cursor-pointer">
                     Profile
                 </a>
                 <a href="/posts" class="block py-3 px-2 hover:bg-gray-100 cursor-pointer">
