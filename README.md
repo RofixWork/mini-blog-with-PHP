@@ -15,4 +15,3 @@
 
 # Profile Page
 ![profile](https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/75a27622-605a-448a-a35c-5107c21bdacc)
-https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/a55028f0-ecfd-46f3-9fa4-861410ea76a5
