@@ -1,4 +1,7 @@
-# DEMO : https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/336744e0-f929-493a-ae72-46604bf5226c
+# DEMO : 
+### https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/336744e0-f929-493a-ae72-46604bf5226c
+
+---------------------------------------------------------------------------------------------------------
 
 # Home Page
 ![home](https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/500fa05b-24bf-4ac7-891f-87a2c9579b23)
