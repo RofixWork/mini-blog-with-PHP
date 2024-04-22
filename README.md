@@ -6,7 +6,11 @@
 
 # Categories Page
 ![categories](https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/d8491448-a717-42d2-b3bb-9c757b3e7c87)
+
+## Add Category Modal
 ![add category](https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/33c698c5-8efb-44cf-9bf8-8dc3f53c5e67)
+
+## Update Category
 ![update category](https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/ed39cbcc-4416-4f67-bc1d-aac5dd0e13bd)
 
 # Profile Page
