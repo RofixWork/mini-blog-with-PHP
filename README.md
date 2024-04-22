@@ -1,4 +1,4 @@
-#Home Page
+# Home Page
 ![home](https://github.com/RofixWork/mini-blog-with-PHP/assets/58398636/500fa05b-24bf-4ac7-891f-87a2c9579b23)
 
 #Posts Page
